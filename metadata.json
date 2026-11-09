@@ -1,0 +1,6 @@
+{
+  "name": "BugHunt - Coding Debug Challenge Arena",
+  "description": "Frontend SPA for debugging coding challenges. Identify bugs, fix code, pass test suites, race the clock, and climb the scoreboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
